@@ -1,5 +1,4 @@
 from lxml import html
-import requests
 
 def get_file(file):
     with open(file, 'r') as fr:
