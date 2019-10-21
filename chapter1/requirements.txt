@@ -30,7 +30,7 @@ dockerpty==0.2.1
 docopt==0.6.1
 docutils==0.12
 dodgy==0.1.5
-ecdsa==0.11
+ecdsa==0.13.3
 elasticsearch==2.3.0
 enum34==1.1.6
 fig==0.5.1
