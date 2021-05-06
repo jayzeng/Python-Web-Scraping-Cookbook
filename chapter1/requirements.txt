@@ -35,7 +35,7 @@ elasticsearch==2.3.0
 enum34==1.1.6
 fig==0.5.1
 Flask==0.10.1
-Flask-Cors==1.6.0
+Flask-Cors==3.0.9
 Flask-SQLAlchemy==0.16
 Flask-Testing==0.4.2
 FormEncode==1.2.6
