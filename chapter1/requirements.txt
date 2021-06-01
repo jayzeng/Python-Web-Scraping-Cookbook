@@ -141,7 +141,7 @@ tornado==4.4.2
 twilio==5.7.0
 Twisted==16.1.1
 uritemplate.py==0.3.0
-urllib3==1.15.1
+urllib3==1.26.5
 usshapes==0.4.1
 virtualenv==1.11.5
 w3lib==1.14.2
