@@ -57,7 +57,7 @@ hvac==0.2.15
 hypchat==0.14
 idna==2.5
 ipaddress==1.0.18
-ipython==2.2.0
+ipython==7.16.3
 ipython-genutils==0.1.0
 ipython-sql==0.3.9
 Jinja2==2.9.5
